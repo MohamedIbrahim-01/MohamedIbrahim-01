@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohamedIbrahim-01
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on learning more about web development
+- 🌱 I’m currently learning how to be Front-End web developer
+- 💞️ I’m looking to collaborate on learning web development
 - 📫 How to reach me mo.ibrahim.egypt@gmail.com
 
 <!---
